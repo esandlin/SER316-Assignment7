@@ -24,11 +24,11 @@ import javax.swing.JToolBar;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
+import main.java.memoranda.CurrentProject;
+import main.java.memoranda.History;
 import main.java.memoranda.date.CalendarDate;
 import main.java.memoranda.date.CurrentDate;
 import main.java.memoranda.date.IDateListener;
-import main.java.memoranda.interfaces.CurrentProject;
-import main.java.memoranda.interfaces.History;
 import main.java.memoranda.interfaces.INoteList;
 import main.java.memoranda.interfaces.IProject;
 import main.java.memoranda.interfaces.IProjectListener;

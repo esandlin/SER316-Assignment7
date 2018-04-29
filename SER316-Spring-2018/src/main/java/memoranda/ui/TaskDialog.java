@@ -35,8 +35,8 @@ import javax.swing.border.TitledBorder;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
+import main.java.memoranda.CurrentProject;
 import main.java.memoranda.date.CalendarDate;
-import main.java.memoranda.interfaces.CurrentProject;
 import main.java.memoranda.util.Local;
 
 import javax.swing.JCheckBox;

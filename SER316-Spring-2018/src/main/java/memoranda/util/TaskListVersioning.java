@@ -8,8 +8,8 @@ import java.io.File;
 import java.util.Iterator;
 import java.util.Vector;
 
+import main.java.memoranda.ProjectManager;
 import main.java.memoranda.interfaces.IProject;
-import main.java.memoranda.interfaces.ProjectManager;
 import nu.xom.Attribute;
 import nu.xom.DocType;
 import nu.xom.Document;

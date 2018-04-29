@@ -6,7 +6,6 @@ import javax.swing.tree.*;
 
 import main.java.memoranda.*;
 import main.java.memoranda.date.*;
-import main.java.memoranda.interfaces.CurrentProject;
 import main.java.memoranda.interfaces.IProject;
 import main.java.memoranda.interfaces.ITask;
 import main.java.memoranda.util.*;

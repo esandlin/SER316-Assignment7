@@ -1,7 +1,10 @@
-package main.java.memoranda.interfaces;
+package main.java.memoranda;
 
 import java.util.Collection;
 import java.util.Vector;
+
+import main.java.memoranda.interfaces.INote;
+import main.java.memoranda.interfaces.INoteListener;
 
 public class CurrentNote {
 

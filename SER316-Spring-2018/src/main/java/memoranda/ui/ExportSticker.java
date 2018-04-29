@@ -8,7 +8,7 @@ import java.util.Map;
 
 import javax.swing.JOptionPane;
 
-import main.java.memoranda.interfaces.EventsManager;
+import main.java.memoranda.EventsManager;
 import main.java.memoranda.util.CurrentStorage;
 import main.java.memoranda.util.Local;
 import nu.xom.Document;

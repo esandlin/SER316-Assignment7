@@ -13,11 +13,11 @@ import javax.swing.table.AbstractTableModel;
 import javax.swing.table.TableCellRenderer;
 import javax.swing.table.TableColumn;
 
-import main.java.memoranda.interfaces.CurrentProject;
+import main.java.memoranda.CurrentProject;
+import main.java.memoranda.Resource;
 import main.java.memoranda.interfaces.INoteList;
 import main.java.memoranda.interfaces.IProject;
 import main.java.memoranda.interfaces.IProjectListener;
-import main.java.memoranda.interfaces.Resource;
 import main.java.memoranda.interfaces.IResourcesList;
 import main.java.memoranda.interfaces.ITaskList;
 import main.java.memoranda.ui.table.TableSorter;

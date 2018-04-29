@@ -21,9 +21,9 @@ import java.util.zip.ZipOutputStream;
 
 import javax.swing.JOptionPane;
 
+import main.java.memoranda.ProjectManager;
 import main.java.memoranda.date.CalendarDate;
 import main.java.memoranda.interfaces.IProject;
-import main.java.memoranda.interfaces.ProjectManager;
 import main.java.memoranda.ui.App;
 import main.java.memoranda.ui.ExceptionDialog;
 /**

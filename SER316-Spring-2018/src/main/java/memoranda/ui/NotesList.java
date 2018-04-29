@@ -13,11 +13,11 @@ import javax.swing.JList;
 import javax.swing.ListCellRenderer;
 import javax.swing.ListSelectionModel;
 
+import main.java.memoranda.CurrentNote;
+import main.java.memoranda.CurrentProject;
 import main.java.memoranda.date.CalendarDate;
 import main.java.memoranda.date.CurrentDate;
 import main.java.memoranda.date.IDateListener;
-import main.java.memoranda.interfaces.CurrentNote;
-import main.java.memoranda.interfaces.CurrentProject;
 import main.java.memoranda.interfaces.INote;
 import main.java.memoranda.interfaces.INoteList;
 import main.java.memoranda.interfaces.INoteListener;

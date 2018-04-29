@@ -12,10 +12,10 @@ import javax.swing.table.AbstractTableModel;
 import javax.swing.table.TableCellRenderer;
 import javax.swing.table.TableColumn;
 
+import main.java.memoranda.CurrentProject;
+import main.java.memoranda.ProjectManager;
 import main.java.memoranda.date.CalendarDate;
-import main.java.memoranda.interfaces.CurrentProject;
 import main.java.memoranda.interfaces.IProject;
-import main.java.memoranda.interfaces.ProjectManager;
 import main.java.memoranda.util.Local;
 
 /*$Id: ProjectsTablePanel.java,v 1.6 2004/04/05 10:05:44 alexeya Exp $*/

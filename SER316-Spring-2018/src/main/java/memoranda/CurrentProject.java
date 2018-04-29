@@ -7,12 +7,16 @@
  * Copyright (c) 2003 Memoranda Team. http://memoranda.sf.net
  *
  */
-package main.java.memoranda.interfaces;
+package main.java.memoranda;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Collection;
 import java.util.Vector;
 
+import main.java.memoranda.interfaces.INoteList;
+import main.java.memoranda.interfaces.IProject;
+import main.java.memoranda.interfaces.IResourcesList;
+import main.java.memoranda.interfaces.ITaskList;
 import main.java.memoranda.ui.AppFrame;
 import main.java.memoranda.util.Context;
 import main.java.memoranda.util.CurrentStorage;

@@ -25,7 +25,6 @@ import javax.swing.tree.TreePath;
 
 import main.java.memoranda.*;
 import main.java.memoranda.date.CurrentDate;
-import main.java.memoranda.interfaces.CurrentProject;
 import main.java.memoranda.interfaces.IProject;
 import main.java.memoranda.interfaces.ITask;
 import main.java.memoranda.ui.treetable.AAbstractTreeTableModel;

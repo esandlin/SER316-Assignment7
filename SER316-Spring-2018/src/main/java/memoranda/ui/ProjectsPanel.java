@@ -33,14 +33,14 @@ import javax.swing.SwingConstants;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
+import main.java.memoranda.CurrentProject;
+import main.java.memoranda.ProjectManager;
 import main.java.memoranda.date.CalendarDate;
 import main.java.memoranda.date.CurrentDate;
 import main.java.memoranda.date.IDateListener;
-import main.java.memoranda.interfaces.CurrentProject;
 import main.java.memoranda.interfaces.INoteList;
 import main.java.memoranda.interfaces.IProject;
 import main.java.memoranda.interfaces.IProjectListener;
-import main.java.memoranda.interfaces.ProjectManager;
 import main.java.memoranda.interfaces.IResourcesList;
 import main.java.memoranda.interfaces.ITaskList;
 import main.java.memoranda.util.*;

@@ -12,13 +12,13 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Vector;
 
+import main.java.memoranda.CurrentProject;
+import main.java.memoranda.EventsManager;
+import main.java.memoranda.EventsScheduler;
+import main.java.memoranda.ProjectManager;
 import main.java.memoranda.date.CalendarDate;
-import main.java.memoranda.interfaces.CurrentProject;
 import main.java.memoranda.interfaces.IEvent;
-import main.java.memoranda.interfaces.EventsManager;
-import main.java.memoranda.interfaces.EventsScheduler;
 import main.java.memoranda.interfaces.IProject;
-import main.java.memoranda.interfaces.ProjectManager;
 import main.java.memoranda.interfaces.ITask;
 import main.java.memoranda.interfaces.ITaskList;
 

@@ -5,7 +5,7 @@
  * @author Alex V. Alishevskikh, alex@openmechanics.net Copyright (c) 2003
  *         Memoranda Team. http://memoranda.sf.net
  */
-package main.java.memoranda.interfaces;
+package main.java.memoranda;
 
 import java.util.ArrayList;
 import java.util.Calendar;

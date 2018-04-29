@@ -23,9 +23,9 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
+import main.java.memoranda.CurrentNote;
+import main.java.memoranda.CurrentProject;
 import main.java.memoranda.date.CurrentDate;
-import main.java.memoranda.interfaces.CurrentNote;
-import main.java.memoranda.interfaces.CurrentProject;
 import main.java.memoranda.interfaces.INote;
 import main.java.memoranda.util.Configuration;
 import main.java.memoranda.util.CurrentStorage;

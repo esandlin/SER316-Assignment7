@@ -6,12 +6,15 @@
  * @author Alex V. Alishevskikh, alex@openmechanics.net
  * Copyright (c) 2003 Memoranda Team. http://memoranda.sf.net
  */
-package main.java.memoranda.interfaces;
+package main.java.memoranda;
 import java.util.Collection;
 import java.util.Vector;
 
 import main.java.memoranda.date.CalendarDate;
 import main.java.memoranda.date.CurrentDate;
+import main.java.memoranda.interfaces.INote;
+import main.java.memoranda.interfaces.INoteList;
+import main.java.memoranda.interfaces.IProject;
 import main.java.memoranda.util.Util;
 import nu.xom.Attribute;
 import nu.xom.Document;
