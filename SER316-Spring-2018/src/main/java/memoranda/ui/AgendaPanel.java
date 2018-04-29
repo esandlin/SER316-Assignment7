@@ -18,7 +18,7 @@ import javax.swing.JToolBar;
 import javax.swing.SwingUtilities;
 import javax.swing.event.HyperlinkEvent;
 import javax.swing.event.HyperlinkListener;
-
+import main.java.memoranda.util.Local;
 import main.java.memoranda.CurrentProject;
 import main.java.memoranda.EventsManager;
 import main.java.memoranda.EventsScheduler;
@@ -35,7 +35,7 @@ import main.java.memoranda.interfaces.IResourcesList;
 import main.java.memoranda.interfaces.ITaskList;
 import main.java.memoranda.util.AgendaGenerator;
 import main.java.memoranda.util.CurrentStorage;
-import main.java.memoranda.util.Local;
+
 import main.java.memoranda.util.Util;
 
 import javax.swing.JOptionPane;

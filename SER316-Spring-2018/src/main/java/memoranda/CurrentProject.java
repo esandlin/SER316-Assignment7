@@ -15,6 +15,7 @@ import java.util.Vector;
 
 import main.java.memoranda.interfaces.INoteList;
 import main.java.memoranda.interfaces.IProject;
+import main.java.memoranda.interfaces.IProjectListener;
 import main.java.memoranda.interfaces.IResourcesList;
 import main.java.memoranda.interfaces.ITaskList;
 import main.java.memoranda.ui.AppFrame;

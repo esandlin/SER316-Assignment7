@@ -15,6 +15,7 @@ import java.util.Vector;
 
 import main.java.memoranda.date.CalendarDate;
 import main.java.memoranda.interfaces.IProject;
+import main.java.memoranda.interfaces.ITask;
 import main.java.memoranda.interfaces.ITaskList;
 import main.java.memoranda.util.Util;
 import nu.xom.Attribute;
