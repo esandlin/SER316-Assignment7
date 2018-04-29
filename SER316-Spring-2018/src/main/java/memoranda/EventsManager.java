@@ -14,6 +14,7 @@ import java.util.HashMap;
 import java.util.Vector;
 
 import main.java.memoranda.date.CalendarDate;
+import main.java.memoranda.interfaces.IEvent;
 import main.java.memoranda.util.CurrentStorage;
 import main.java.memoranda.util.Util;
 
