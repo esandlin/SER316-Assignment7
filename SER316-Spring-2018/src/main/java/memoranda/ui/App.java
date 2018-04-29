@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.UIManager;
 
-import main.java.memoranda.EventsScheduler;
+import main.java.memoranda.interfaces.EventsScheduler;
 import main.java.memoranda.util.Configuration;
 
 /**
