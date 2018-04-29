@@ -368,34 +368,5 @@ public class TaskListImpl implements ITaskList {
     	}
     }
 
-    /*
-     * deprecated methods below
-     * 
-     */
-                    
-//    public void adjustParentTasks(Task t) {
-//    	if ((t.getParent() == null) || (t.getParent().equals(""))){
-//    		return;
-//    	}
-//    	else {
-//    		Task p = getTask(t.getParent());
-//    		
-//    		long totalEffort = calculateTotalEffortFromSubTasks(p);
-//    		
-//    		if(totalEffort > p.getEffort()) {
-//    			p.setEffort(totalEffort);
-//    		}
-//    		if(t.getStartDate().before(p.getStartDate())) {
-//    			p.setStartDate(t.getStartDate());
-//    		}
-//    		if(t.getEndDate().after(p.getEndDate())) {
-//    			p.setEndDate(t.getEndDate());
-//    		}
-//    		
-//        	if (!((p.getParent() == null) || (p.getParent().equals("")))){
-//        		// still has parent, go up the tree
-//        		adjustParentTasks(p);
-//        	}    		
-//    	}
-//    }
+    // TASK 2-1 SMELL WITHIN A CLASS
 }

@@ -18,11 +18,9 @@ import main.java.memoranda.util.Local;
 import nu.xom.Attribute;
 import nu.xom.Element;
 
-/**
- * 
- */
+// TASK 2-2 SMELL BETWEEN CLASSES
 /*$Id: EventImpl.java,v 1.9 2004/10/06 16:00:11 ivanrise Exp $*/
-public class EventImpl implements IEvent, Comparable {
+public class EventImpl implements IEvent {
     
     private Element _element = null;
 

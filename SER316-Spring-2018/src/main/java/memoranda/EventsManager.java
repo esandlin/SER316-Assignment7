@@ -380,8 +380,8 @@ public class EventsManager {
 		}
 
 		public Vector getDays() {
-			if (mElement == null)
-				return null;
+			//if (mElement == null)
+				//return null;
 			Vector v = new Vector();
 			Elements ds = mElement.getChildElements("day");
 			for (int i = 0; i < ds.size(); i++)
